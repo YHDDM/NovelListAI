@@ -8,8 +8,8 @@
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "终极电影创作工作平台",
+      "description": "逐场景打造您的故事。AI直观的工具和协作功能，提升您的剧本创作过程。",
       "cta": "开始使用"
     },
     "Features": {
@@ -19,12 +19,12 @@
         "description": "轻松创建详细的角色档案。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "剧情管理",
+        "description": "使用强大的AI工具组织您的故事。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "模拟编辑器",
+        "description": "AI将精准编辑和完善您的场景。"
       },
       "aiTools": {
         "title": "AI辅助工具",
@@ -34,9 +34,9 @@
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
-        "name": "Sarah Johnson",
+        "name": "FYH",
         "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "content": "可以啊！"
       },
       "testimonial2": {
         "name": "Michael Lee",
